@@ -75,8 +75,19 @@ I use hands-on labs, projects, simulations, and continuous learning to strengthe
 <img src="https://img.shields.io/badge/⚙️%20Security%20Automation-0D1117?style=for-the-badge&labelColor=161B22" />
 
 </p>
-## 🧰 Skills & Technologies
 
+🧰 Skills & Technologies
+💻 Operating Systems
+
+<p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </p>
+
+🌐 Networking
+
+<p> <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/DNS-1679A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge"/> </p>
+
+🔐 Cybersecurity Tools
+
+<p> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/> </p>
 ### 💻 Operating Systems
 
 <p>
