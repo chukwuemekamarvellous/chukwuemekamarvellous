@@ -52,89 +52,29 @@ I use hands-on labs, projects, simulations, and continuous learning to strengthe
 
 ## 🛡️ Areas of Specialization
 
-<table>
-<tr>
-<td align="center" width="25%">
+<p align="center">
 
-### 🔎
-**Threat Detection & Analysis**
+<img src="https://img.shields.io/badge/🔎%20Threat%20Detection%20%26%20Analysis-0D1117?style=for-the-badge&labelColor=161B22" />
 
-</td>
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛡️%20Security%20Operations-0D1117?style=for-the-badge&labelColor=161B22" />
 
-### 🛡️
-**Security Operations**
+<img src="https://img.shields.io/badge/🌐%20Network%20Security-0D1117?style=for-the-badge&labelColor=161B22" />
 
-</td>
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🐧%20Linux%20%26%20System%20Security-0D1117?style=for-the-badge&labelColor=161B22" />
 
-### 🌐
-**Network Security**
+<img src="https://img.shields.io/badge/🔐%20Information%20Security-0D1117?style=for-the-badge&labelColor=161B22" />
 
-</td>
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚨%20Incident%20Response-0D1117?style=for-the-badge&labelColor=161B22" />
 
-### 🐧
-**Linux & System Security**
+<img src="https://img.shields.io/badge/🔍%20Vulnerability%20Assessment-0D1117?style=for-the-badge&labelColor=161B22" />
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/🕵️%20Digital%20Forensics-0D1117?style=for-the-badge&labelColor=161B22" />
 
-<tr>
-<td align="center">
+<img src="https://img.shields.io/badge/📊%20Security%20Monitoring-0D1117?style=for-the-badge&labelColor=161B22" />
 
-### 🔐
-**Information Security**
+<img src="https://img.shields.io/badge/⚙️%20Security%20Automation-0D1117?style=for-the-badge&labelColor=161B22" />
 
-</td>
-<td align="center">
-
-### 🚨
-**Incident Response**
-
-</td>
-<td align="center">
-
-### 🔍
-**Vulnerability Assessment**
-
-</td>
-<td align="center">
-
-### 🕵️
-**Digital Forensics**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📊
-**Security Monitoring**
-
-</td>
-<td align="center">
-
-### ⚙️
-**Security Automation**
-
-</td>
-<td align="center">
-
-### 🧪
-**Security Labs**
-
-</td>
-<td align="center">
-
-### 💻
-**Security Scripting**
-
-</td>
-</tr>
-</table>
-
+</p>
 ## 🧰 Skills & Technologies
 
 ### 💻 Operating Systems
