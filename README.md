@@ -50,6 +50,91 @@ I use hands-on labs, projects, simulations, and continuous learning to strengthe
 
 ---
 
+## 🛡️ Areas of Specialization
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔎
+**Threat Detection & Analysis**
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️
+**Security Operations**
+
+</td>
+<td align="center" width="25%">
+
+### 🌐
+**Network Security**
+
+</td>
+<td align="center" width="25%">
+
+### 🐧
+**Linux & System Security**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔐
+**Information Security**
+
+</td>
+<td align="center">
+
+### 🚨
+**Incident Response**
+
+</td>
+<td align="center">
+
+### 🔍
+**Vulnerability Assessment**
+
+</td>
+<td align="center">
+
+### 🕵️
+**Digital Forensics**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📊
+**Security Monitoring**
+
+</td>
+<td align="center">
+
+### ⚙️
+**Security Automation**
+
+</td>
+<td align="center">
+
+### 🧪
+**Security Labs**
+
+</td>
+<td align="center">
+
+### 💻
+**Security Scripting**
+
+</td>
+</tr>
+</table>
+
 ## 🧰 Skills & Technologies
 
 ### 💻 Operating Systems
